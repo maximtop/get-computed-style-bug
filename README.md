@@ -15,3 +15,5 @@
 ```css
    #test { display: none !important }
 ```
+
+chromium bug tracker link https://bugs.chromium.org/p/chromium/issues/detail?id=1356741
